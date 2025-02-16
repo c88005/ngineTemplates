@@ -1,5 +1,5 @@
 # Ngine templates repository
-basicly a pygame engine or something i made,
+basically a pygame engine or something i made,
 with additions and commentaries in the script
 
 window preview:
